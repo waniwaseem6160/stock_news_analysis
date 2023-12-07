@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stock_news_analysis/static/css/main.baac872a.css",
+    "main.js": "/stock_news_analysis/static/js/main.de2acf89.js",
+    "index.html": "/stock_news_analysis/index.html",
+    "main.baac872a.css.map": "/stock_news_analysis/static/css/main.baac872a.css.map",
+    "main.de2acf89.js.map": "/stock_news_analysis/static/js/main.de2acf89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baac872a.css",
+    "static/js/main.de2acf89.js"
+  ]
+}
